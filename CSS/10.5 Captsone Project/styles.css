@@ -1,0 +1,20 @@
+.body{
+    background-color: #40514e;
+    margin: 0;
+    font-family: "Merriweather", serif;
+    text-align: center;
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    padding-top: 100px;
+}
+
+img {
+    justify-content: center;
+}
+
+h1, h2{
+    font-family: "Merriweather", serif;
+    color: rgba(12, 150, 150, 0.781);
+}
